@@ -1,5 +1,4 @@
 # Vinaya Logic Website
 
 
-
-vinayalogic.github.io
+[vinayalogic.github.io](https://vinayalogic.github.io)
